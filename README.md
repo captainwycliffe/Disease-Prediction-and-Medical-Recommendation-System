@@ -21,14 +21,6 @@ The project files are organized into the following directories:
 ### 2. model
 - `RandomForest.pkl`: Trained Random Forest model for disease prediction.
 
-### 3. templates
-- `index.html`: Frontend interface for the Disease Prediction System.
-
-### 4. static
-- `bgCover.jpg`, `img.png` : Images utilized in the frontend webpage.
-
-### 5. screenshots
-- Includes screenshots of the project.
 
 
 ## How to Run the Project
@@ -50,16 +42,8 @@ To run the Disease Prediction and Medical Recommendation System:
    ```bash
    http://localhost:5000
 
-## Team Members
-
-- Tanmay Pramanick - A20541164
-- Kunal Rajput - A20540912
-- Soham Sonar - A20541266
-
 ## Project Files Overview
 
 - `main.py`: Entry point for the Flask web application.
 - `disease_prediction_system.ipynb`: Jupyter Notebook with data preprocessing and model training.
-- `CS584_Project_Report.pdf`: Detailed report on methodologies, model evaluation, results, and future enhancements.
-- `index.html`: Front-end interface for the web application.
 
